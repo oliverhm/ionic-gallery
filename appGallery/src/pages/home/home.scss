@@ -1,0 +1,17 @@
+page-home {
+  .image,
+  .image-slide,
+  .image-thumbnail {
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 200px;
+  }
+
+  .image-thumbnail {
+    min-height: 80px;
+  }
+
+  .image-slide {
+    min-height: 400px;
+  }
+}
